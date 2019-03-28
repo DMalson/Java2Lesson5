@@ -1,13 +1,11 @@
 package Lesson5;
 
-
 public class ProgrammLauncher {
     static final int SIZE = 10000000;
     static final int HALF = SIZE / 2;
     static final float[] arr = new float[SIZE];
     static final float[] arr1 = new float[HALF];
     static final float[] arr2 = new float[HALF];
-
 
     public static void main(String[] args) {
 
